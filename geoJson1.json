@@ -1,0 +1,1573 @@
+{
+    "type": "type",
+    "features": [
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            108,
+                            742
+                        ],
+                        [
+                            420,
+                            737
+                        ],
+                        [
+                            421,
+                            781
+                        ],
+                        [
+                            109,
+                            787
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            273,
+                            1269
+                        ],
+                        [
+                            446,
+                            1270
+                        ],
+                        [
+                            446,
+                            1306
+                        ],
+                        [
+                            273,
+                            1305
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1128,
+                            243
+                        ],
+                        [
+                            1227,
+                            246
+                        ],
+                        [
+                            1226,
+                            284
+                        ],
+                        [
+                            1127,
+                            282
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            848,
+                            847
+                        ],
+                        [
+                            974,
+                            835
+                        ],
+                        [
+                            977,
+                            866
+                        ],
+                        [
+                            851,
+                            878
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            707,
+                            1198
+                        ],
+                        [
+                            864,
+                            1193
+                        ],
+                        [
+                            865,
+                            1229
+                        ],
+                        [
+                            707,
+                            1233
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            603,
+                            771
+                        ],
+                        [
+                            700,
+                            776
+                        ],
+                        [
+                            698,
+                            805
+                        ],
+                        [
+                            601,
+                            800
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            780,
+                            600
+                        ],
+                        [
+                            869,
+                            596
+                        ],
+                        [
+                            870,
+                            625
+                        ],
+                        [
+                            782,
+                            628
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1383,
+                            220
+                        ],
+                        [
+                            1511,
+                            219
+                        ],
+                        [
+                            1512,
+                            249
+                        ],
+                        [
+                            1383,
+                            250
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            849,
+                            995
+                        ],
+                        [
+                            965,
+                            991
+                        ],
+                        [
+                            967,
+                            1032
+                        ],
+                        [
+                            850,
+                            1036
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1305,
+                            960
+                        ],
+                        [
+                            1415,
+                            957
+                        ],
+                        [
+                            1416,
+                            985
+                        ],
+                        [
+                            1306,
+                            988
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            694,
+                            1388
+                        ],
+                        [
+                            819,
+                            1386
+                        ],
+                        [
+                            819,
+                            1424
+                        ],
+                        [
+                            694,
+                            1426
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            555,
+                            233
+                        ],
+                        [
+                            666,
+                            231
+                        ],
+                        [
+                            667,
+                            270
+                        ],
+                        [
+                            556,
+                            273
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            847,
+                            398
+                        ],
+                        [
+                            979,
+                            397
+                        ],
+                        [
+                            980,
+                            433
+                        ],
+                        [
+                            848,
+                            434
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            684,
+                            229
+                        ],
+                        [
+                            776,
+                            230
+                        ],
+                        [
+                            776,
+                            260
+                        ],
+                        [
+                            684,
+                            259
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1293,
+                            1376
+                        ],
+                        [
+                            1320,
+                            1391
+                        ],
+                        [
+                            1250,
+                            1513
+                        ],
+                        [
+                            1223,
+                            1498
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1087,
+                            182
+                        ],
+                        [
+                            1277,
+                            176
+                        ],
+                        [
+                            1278,
+                            216
+                        ],
+                        [
+                            1089,
+                            223
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1123,
+                            1017
+                        ],
+                        [
+                            1220,
+                            1015
+                        ],
+                        [
+                            1221,
+                            1047
+                        ],
+                        [
+                            1123,
+                            1049
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1142,
+                            278
+                        ],
+                        [
+                            1226,
+                            279
+                        ],
+                        [
+                            1226,
+                            309
+                        ],
+                        [
+                            1141,
+                            307
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1113,
+                            1296
+                        ],
+                        [
+                            1199,
+                            1295
+                        ],
+                        [
+                            1199,
+                            1323
+                        ],
+                        [
+                            1114,
+                            1324
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            731,
+                            572
+                        ],
+                        [
+                            822,
+                            567
+                        ],
+                        [
+                            823,
+                            598
+                        ],
+                        [
+                            732,
+                            603
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1228,
+                            1010
+                        ],
+                        [
+                            1314,
+                            1005
+                        ],
+                        [
+                            1316,
+                            1044
+                        ],
+                        [
+                            1231,
+                            1048
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1020,
+                            757
+                        ],
+                        [
+                            1198,
+                            764
+                        ],
+                        [
+                            1197,
+                            799
+                        ],
+                        [
+                            1019,
+                            792
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            720,
+                            947
+                        ],
+                        [
+                            802,
+                            953
+                        ],
+                        [
+                            800,
+                            990
+                        ],
+                        [
+                            717,
+                            983
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1280,
+                            729
+                        ],
+                        [
+                            1337,
+                            727
+                        ],
+                        [
+                            1338,
+                            758
+                        ],
+                        [
+                            1281,
+                            759
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1213,
+                            1293
+                        ],
+                        [
+                            1291,
+                            1291
+                        ],
+                        [
+                            1292,
+                            1321
+                        ],
+                        [
+                            1214,
+                            1323
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1407,
+                            187
+                        ],
+                        [
+                            1479,
+                            188
+                        ],
+                        [
+                            1479,
+                            216
+                        ],
+                        [
+                            1407,
+                            215
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1454,
+                            338
+                        ],
+                        [
+                            1509,
+                            336
+                        ],
+                        [
+                            1510,
+                            363
+                        ],
+                        [
+                            1455,
+                            365
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            893,
+                            883
+                        ],
+                        [
+                            953,
+                            878
+                        ],
+                        [
+                            956,
+                            906
+                        ],
+                        [
+                            895,
+                            911
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            878,
+                            150
+                        ],
+                        [
+                            939,
+                            152
+                        ],
+                        [
+                            938,
+                            185
+                        ],
+                        [
+                            877,
+                            183
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            826,
+                            568
+                        ],
+                        [
+                            949,
+                            564
+                        ],
+                        [
+                            950,
+                            596
+                        ],
+                        [
+                            827,
+                            600
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            834,
+                            309
+                        ],
+                        [
+                            884,
+                            307
+                        ],
+                        [
+                            884,
+                            332
+                        ],
+                        [
+                            834,
+                            333
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            718,
+                            359
+                        ],
+                        [
+                            739,
+                            360
+                        ],
+                        [
+                            734,
+                            468
+                        ],
+                        [
+                            712,
+                            467
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1381,
+                            335
+                        ],
+                        [
+                            1445,
+                            336
+                        ],
+                        [
+                            1445,
+                            368
+                        ],
+                        [
+                            1381,
+                            367
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            411,
+                            701
+                        ],
+                        [
+                            504,
+                            702
+                        ],
+                        [
+                            503,
+                            724
+                        ],
+                        [
+                            411,
+                            723
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            553,
+                            508
+                        ],
+                        [
+                            622,
+                            507
+                        ],
+                        [
+                            622,
+                            537
+                        ],
+                        [
+                            553,
+                            537
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1416,
+                            1235
+                        ],
+                        [
+                            1466,
+                            1234
+                        ],
+                        [
+                            1467,
+                            1258
+                        ],
+                        [
+                            1417,
+                            1259
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            368,
+                            1358
+                        ],
+                        [
+                            428,
+                            1356
+                        ],
+                        [
+                            429,
+                            1382
+                        ],
+                        [
+                            369,
+                            1383
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            130,
+                            651
+                        ],
+                        [
+                            189,
+                            650
+                        ],
+                        [
+                            189,
+                            677
+                        ],
+                        [
+                            131,
+                            678
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            1310,
+                            1322
+                        ],
+                        [
+                            1331,
+                            1334
+                        ],
+                        [
+                            1249,
+                            1476
+                        ],
+                        [
+                            1228,
+                            1463
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            524,
+                            703
+                        ],
+                        [
+                            587,
+                            713
+                        ],
+                        [
+                            584,
+                            735
+                        ],
+                        [
+                            521,
+                            726
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            867,
+                            184
+                        ],
+                        [
+                            934,
+                            182
+                        ],
+                        [
+                            935,
+                            214
+                        ],
+                        [
+                            868,
+                            216
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            68,
+                            652
+                        ],
+                        [
+                            120,
+                            651
+                        ],
+                        [
+                            121,
+                            678
+                        ],
+                        [
+                            70,
+                            680
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            342,
+                            702
+                        ],
+                        [
+                            399,
+                            703
+                        ],
+                        [
+                            398,
+                            725
+                        ],
+                        [
+                            341,
+                            723
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            597,
+                            724
+                        ],
+                        [
+                            635,
+                            731
+                        ],
+                        [
+                            631,
+                            747
+                        ],
+                        [
+                            594,
+                            739
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            631,
+                            509
+                        ],
+                        [
+                            698,
+                            508
+                        ],
+                        [
+                            698,
+                            536
+                        ],
+                        [
+                            631,
+                            537
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            311,
+                            1359
+                        ],
+                        [
+                            360,
+                            1359
+                        ],
+                        [
+                            360,
+                            1382
+                        ],
+                        [
+                            311,
+                            1382
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            891,
+                            306
+                        ],
+                        [
+                            932,
+                            305
+                        ],
+                        [
+                            933,
+                            332
+                        ],
+                        [
+                            892,
+                            333
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            632,
+                            708
+                        ],
+                        [
+                            682,
+                            717
+                        ],
+                        [
+                            678,
+                            736
+                        ],
+                        [
+                            628,
+                            727
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        },
+        {
+            "DictionaryWordSimilarity": " ",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            701,
+                            471
+                        ],
+                        [
+                            724,
+                            473
+                        ],
+                        [
+                            717,
+                            548
+                        ],
+                        [
+                            694,
+                            546
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "TesseractCost": " ",
+            "ImageId": " ",
+            "type": "Feature",
+            "SameMatches": " ",
+            "NameAfterDictionary": " ",
+            "NameBeforeDictionary": " "
+        }
+    ]
+}
