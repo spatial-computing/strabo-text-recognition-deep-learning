@@ -178,6 +178,7 @@ def draw_illu(illu, rst):
 
 
 def save_result(image_name, img, rst):
+    image_val = image_name.split(".")[0]
     import jsonReader
     import merge_rectangles
     session_id = str(uuid.uuid1())
@@ -217,8 +218,11 @@ def save_result(image_name, img, rst):
     print(os.path.join(dirpath, 'geoJson1.json'))
     
     print("python3 text_recognition.py -i " + os.path.join(dirpath, 'input.png') +" -j " + os.path.join(dirpath, 'geoJson1.json') + " -o " + os.path.join(dirpath, 'final.txt'))
-    #os.system("python3 text_recognition.py -i " + os.path.join(dirpath, 'input.png') +" -j " + os.path.join(dirpath, 'geoJson1.json') + " -o " + os.path.join(dirpath, 'final.txt'))
-
+    os.system("python3 text_recognition.py -i " + os.path.join(dirpath, 'input.png') +" -j " + os.path.join(dirpath, 'geoJson1.json') + " -o " + os.path.join(dirpath, 'final.txt'))    
+    #os.system("mkdir /opt/straboweb")
+    #path_current = "/opt/straboweb"
+    #os.makedirs(path_current)
+    os.system("cp -r "+ os.path.join(dirpath, 'final.txt') + " /opt/straboweb/results/"+image_val+".json")
     
     
     return rst
