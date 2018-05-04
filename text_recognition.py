@@ -38,7 +38,7 @@ def text_recognition(input_image, input_json):
         text = ""
         score = 0
     
-        with PyTessBaseAPI(path='/usr/share/tesseract-ocr/4.00/tessdata/',psm=PSM.AUTO_OSD, oem=OEM.LSTM_ONLY) as api:
+        with PyTessBaseAPI(path='/usr/share/tesseract-ocr/tessdata/',psm=PSM.AUTO_OSD, oem=OEM.TESSERACT_ONLY) as api:
             api.SetImage(new)
             api.Recognize()
             text = api.GetUTF8Text()
@@ -46,8 +46,10 @@ def text_recognition(input_image, input_json):
         
         feat["NameBeforeDictionary"] = text
         feat["TesseractCost"] = score
+        feat["NameAfterDictionary"] = text
         
         features[count] = feat
+        
         
         count = count+1
     
