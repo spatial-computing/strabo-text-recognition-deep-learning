@@ -168,11 +168,6 @@ In this case, the detection phase will still complete successfully and generate
 output image.
 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
 ## Acknowledgments
 
 * Special thanks to EAST [paper](https://arxiv.org/abs/1704.03155v2) and [code](https://github.com/argman/EAST)
