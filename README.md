@@ -18,15 +18,14 @@ directly.
 ### Packages 
 
 
-
 ### Step1 - Set up virtual environment
 
 Download and install virtualenv
 
 ```
-sudo apt-get install virtualenvl
-
+sudo apt-get install virtualenv
 ```
+
 Create the directory to store all the environments
 ```
 mkdir ~/Environments
@@ -94,7 +93,7 @@ sudo add-apt-repository -y ppa:alex-p/tesseract-ocr
 sudo apt-get update
 sudo apt-get install -y tesseract-ocr libtesseract-dev libleptonica-dev
 pip3 install git+https://github.com/sirfz/tesserocr
-git clone https://github.com/cybsbbb/strabo-text-recognition-deep-learning.git
+git clone https://github.com/spatial-computing/strabo-text-recognition-deep-learning.git
 export LC_ALL=C
 ```
 ### Step5 - Save virtual env configuration (optional)
@@ -116,9 +115,7 @@ The command to run strabo on testing image is:
 
 ```
 cd strabo-text-recognition-deep-learning
-python3 run_command_line.py 
---checkpoint-path ${Strabo_Dep_DIR}/east_icdar2015_resnet_v1_50_rbox
---image 1920-5.png --config configuration.ini
+python3 run_command_line.py --checkpoint-path ${Strabo_Dep_DIR}/east_icdar2015_resnet_v1_50_rbox --image 1920-5.png --config configuration.ini
 ```
 The output is stored in static/results/test2/. Each input image has an
 output folder that starts with the image name. Each folder contains the input
@@ -166,7 +163,6 @@ The reason is that, detection will predict bounding boxes outside the border,
 but the recognition program is not able to crop the image outside the border.
 In this case, the detection phase will still complete successfully and generate
 output image.
-
 
 ## Acknowledgments
 
