@@ -164,6 +164,13 @@ but the recognition program is not able to crop the image outside the border.
 In this case, the detection phase will still complete successfully and generate
 output image.
 
+## FAQ
+1. RuntimeError: Failed to init API, possibly an invalid tessdata path: /usr/share/tesseract-ocr/tessdata/
+```
+git clone https://github.com/tesseract-ocr/tessdata.git
+sudo mv tessdata /usr/share/tesseract-ocr/
+```
+
 ## Acknowledgments
 
 * Special thanks to EAST [paper](https://arxiv.org/abs/1704.03155v2) and [code](https://github.com/argman/EAST)
