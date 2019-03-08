@@ -5,16 +5,17 @@ to the system is an image (jpeg or png). The output is a geo json image which
 contains the coordinates of the text in the map along with the recognized text
 in that area.
 
-## Installation
+## I. Installation
 
 Here is the step to step guide for installing Strabo. The following commands
 have been tested on Linux system with Ubuntu 16.04.2 LTS distribution.
+
+**We provide a install.sh file for your convinience if you want one-line-installation instead of following the commands below. You can simply type ** `sh install.sh` **and it will install Strabo automatically.** (PS: virtual environment installation is not included in the install.sh file)
 
 If you want to run Strabo inside virtual environment, and you do not have
 the virtualenv installed, step 1 will help you with that. If you do not want
 to use virtual environment or have it already installed, you can go to step 2
 directly.
-
 
 ### Step1 - Set up virtual environment (optional)
 
@@ -104,7 +105,7 @@ ments.txt file.
 pip freeze --local > ~/Environments/requirements.txt
 ```
 
-## Test with demo images
+## II. Test with demo images
 
 We already prepared 2 demo images in the strabo-text-recognition-deep-learning
 folder: 1920-3.png and 1920-5.png.
@@ -162,7 +163,7 @@ but the recognition program is not able to crop the image outside the border.
 In this case, the detection phase will still complete successfully and generate
 output image.
 
-## FAQ
+## III. FAQ
 1. RuntimeError: Failed to init API, possibly an invalid tessdata path: /usr/share/tesseract-ocr/tessdata/
 ```
 git clone https://github.com/tesseract-ocr/tessdata.git
