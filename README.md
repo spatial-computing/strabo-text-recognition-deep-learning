@@ -4,6 +4,9 @@ The goal of this project is to detect and recognize the text in the maps. Input
 to the system is an image (jpeg or png). The output is a geo json image which
 contains the coordinates of the text in the map along with the recognized text
 in that area.
+### Prerequsite
+Ubuntu OS
+pip for python3
 
 ## I. Installation
 
