@@ -95,6 +95,8 @@ sudo apt-get install -y tesseract-ocr=4.0.* libtesseract-dev=4.0.* libleptonica-
 pip3 install git+https://github.com/spatial-computing/tesserocr
 git clone https://github.com/spatial-computing/strabo-text-recognition-deep-learning.git
 export LC_ALL=C
+sudo mv /usr/share/tesseract-ocr/4.00/tessdata/ /usr/share/tesseract-ocr/
+sudo rm -r /usr/share/tesseract-ocr/4.00
 ```
 ### Step5 - Save virtual env configuration (optional)
 
