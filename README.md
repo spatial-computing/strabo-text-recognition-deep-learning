@@ -15,10 +15,8 @@ the virtualenv installed, step 1 will help you with that. If you do not want
 to use virtual environment or have it already installed, you can go to step 2
 directly.
 
-### Packages 
 
-
-### Step1 - Set up virtual environment
+### Step1 - Set up virtual environment (optional)
 
 Download and install virtualenv
 
