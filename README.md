@@ -8,7 +8,7 @@ in that area.
 ## I. Installation
 
 Here is the step to step guide for installing Strabo. The following commands
-have been tested on Linux system with Ubuntu 16.04.2 LTS distribution.
+have been tested on Linux system with **Ubuntu 16.04.2 LTS distribution**.
 
 You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps. There are two ways to install Strabo, you can choose the one you prefer.
 
@@ -84,7 +84,7 @@ sudo apt-get install libgeos-dev
 Install other required libraries. This step will take some time.
 
 ```
-pip3 install -r ${Strabo_Dep_DIR}/text-detection-requirements.txt
+sudo pip3 install -r ${Strabo_Dep_DIR}/text-detection-requirements.txt
 ```
 
 #### Step4 - Download and install
@@ -95,7 +95,7 @@ Then download and install the core code for text detection and recognition.
 sudo add-apt-repository -y ppa:alex-p/tesseract-ocr
 sudo apt-get update
 sudo apt-get install -y tesseract-ocr=4.0.* libtesseract-dev=4.0.* libleptonica-dev=1.76.*  
-pip3 install git+https://github.com/spatial-computing/tesserocr
+sudo pip3 install git+https://github.com/spatial-computing/tesserocr
 git clone https://github.com/spatial-computing/strabo-text-recognition-deep-learning.git
 export LC_ALL=C
 ```
