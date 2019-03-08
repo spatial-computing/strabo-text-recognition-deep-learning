@@ -222,7 +222,7 @@ def save_result(image_name, img, rst):
     #os.system("mkdir /opt/straboweb")
     #path_current = "/opt/straboweb"
     #os.makedirs(path_current)
-    os.system("cp -r "+ os.path.join(dirpath, 'final.txt') + " /opt/straboweb/results/"+image_val+".json")
+    #os.system("cp -r "+ os.path.join(dirpath, 'final.txt') + " /opt/straboweb/results/"+image_val+".json")
     
     
     return rst
