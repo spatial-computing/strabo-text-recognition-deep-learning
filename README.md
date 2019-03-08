@@ -6,6 +6,7 @@ contains the coordinates of the text in the map along with the recognized text
 in that area.
 ### Prerequsite
 Ubuntu OS
+
 pip for python3
 
 ## I. Installation
