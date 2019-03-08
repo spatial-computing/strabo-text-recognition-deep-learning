@@ -10,7 +10,9 @@ in that area.
 Here is the step to step guide for installing Strabo. The following commands
 have been tested on Linux system with Ubuntu 16.04.2 LTS distribution.
 
-**We provide a install.sh file for your convinience if you want one-line-installation instead of following the commands below. You can simply type** `sh install.sh` **and it will install Strabo automatically.** (PS: virtual environment installation is not included in the install.sh file). When you use this install.sh file, please make sure it is in the same folder as StraboDependency.zip
+You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps.
+
+**We provide a install.sh file for your convinience if you want one-line-installation instead of following the commands below. You can simply type** `sh install.sh` **and it will install Strabo automatically.** (PS: virtual environment installation is not included in the install.sh file). When you use this install.sh file, please make sure it is in the same folder as StraboDependency.zip. Strabo will be installed in the **same** folder that your `install.sh` and `StraboDependency.zip` reside in. 
 
 If you want to run Strabo inside virtual environment, and you do not have
 the virtualenv installed, step 1 will help you with that. If you do not want
