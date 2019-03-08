@@ -58,11 +58,17 @@ We have provided a zip file that contains necessary dependency files. We need
 to extract the zip file in this step.
 
 First go to the directory where the zip file resides in with the cd command.
-We will refer to this directory as `$Strabo_Dep_DIR`.
+We will refer to this directory as `<Strabo_Dep_DIR>`.
 
 ```
-cd ${Strabo_Dep_DIR}
+cd <Strabo_Dep_DIR>
 ```
+If you don't have `unzip` installed, then install `unzip` via
+
+```
+sudo apt-get install unzip
+```
+
 Then extract the files by
 ```
 unzip StraboDependency.zip
@@ -79,6 +85,12 @@ inflating: text-detection-requirements.txt
 ```
 
 #### Step3 - Install libraries
+Install python3-dev and other softwares
+```
+sudo apt-get install python3-dev
+sudo apt-get install software-properties-common
+```
+
 Install library for Shapely
 
 ```
@@ -122,7 +134,7 @@ The command to run strabo on testing image is:
 
 ```
 cd strabo-text-recognition-deep-learning
-python3 run_command_line.py --checkpoint-path ${Strabo_Dep_DIR}/east_icdar2015_resnet_v1_50_rbox --image 1920-5.png --config configuration.ini
+python3 run_command_line.py --checkpoint-path <Strabo_Dep_DIR>/east_icdar2015_resnet_v1_50_rbox --image 1920-5.png --config configuration.ini
 ```
 The output is stored in static/results/test2/. Each input image has an
 output folder that starts with the image name. Each folder contains the input
