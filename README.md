@@ -91,7 +91,7 @@ Then download and install the core code for text detection and recognition.
 ```
 sudo add-apt-repository -y ppa:alex-p/tesseract-ocr
 sudo apt-get update
-sudo apt-get install -y tesseract-ocr=4.0.0 libtesseract-dev=4.0.0 libleptonica-dev=1.76.0
+sudo apt-get install -y tesseract-ocr=4.0.* libtesseract-dev=4.0.* libleptonica-dev=1.76.*  
 pip3 install git+https://github.com/spatial-computing/tesserocr
 git clone https://github.com/spatial-computing/strabo-text-recognition-deep-learning.git
 export LC_ALL=C
