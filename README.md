@@ -10,16 +10,18 @@ in that area.
 Here is the step to step guide for installing Strabo. The following commands
 have been tested on Linux system with Ubuntu 16.04.2 LTS distribution.
 
-You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps.
+You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps. There are two ways to install Strabo, you can choose the one you prefer.
 
+### 1.1 Simple Installation
 **We provide a install.sh file for your convinience if you want one-line-installation instead of following the commands below. You can simply type** `sh install.sh` **and it will install Strabo automatically.** (PS: virtual environment installation is not included in the install.sh file). When you use this install.sh file, please make sure it is in the same folder as StraboDependency.zip. Strabo will be installed in the **same** folder that your `install.sh` and `StraboDependency.zip` reside in. 
 
+### 1.2 Customized installation
 If you want to run Strabo inside virtual environment, and you do not have
 the virtualenv installed, step 1 will help you with that. If you do not want
 to use virtual environment or have it already installed, you can go to step 2
 directly.
 
-### Step1 - Set up virtual environment (optional)
+#### Step1 - Set up virtual environment (optional)
 
 Download and install virtualenv
 
@@ -46,7 +48,7 @@ strabo_env is up.
 (strabo_env) zekun@zekun-ThinkPad-P50:~/Environments$
 ```
 
-### Step2 - Copy files
+#### Step2 - Copy files
 
 We have provided a zip file that contains necessary dependency files. We need
 to extract the zip file in this step.
@@ -72,7 +74,7 @@ inflating: east_icdar2015_resnet_v1_50_rbox/model.ckpt-49491.meta
 inflating: text-detection-requirements.txt
 ```
 
-### Step3 - Install libraries
+#### Step3 - Install libraries
 Install library for Shapely
 
 ```
@@ -85,7 +87,7 @@ Install other required libraries. This step will take some time.
 pip3 install -r ${Strabo_Dep_DIR}/text-detection-requirements.txt
 ```
 
-### Step4 - Download and install
+#### Step4 - Download and install
 
 Then download and install the core code for text detection and recognition.
 
@@ -97,7 +99,7 @@ pip3 install git+https://github.com/spatial-computing/tesserocr
 git clone https://github.com/spatial-computing/strabo-text-recognition-deep-learning.git
 export LC_ALL=C
 ```
-### Step5 - Save virtual env configuration (optional)
+#### Step5 - Save virtual env configuration (optional)
 
 If you want to save the configurations and use it on other machines later, you
 can run the following commandline and save the configurations into the require-
