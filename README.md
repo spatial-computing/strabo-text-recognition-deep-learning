@@ -122,7 +122,7 @@ can run the following commandline and save the configurations into the require-
 ments.txt file.
 
 ```
-pip freeze --local > ~/Environments/requirements.txt
+pip3 freeze --local > ~/Environments/requirements.txt
 ```
 
 ## II. Test with demo images
