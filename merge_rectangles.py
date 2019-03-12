@@ -108,6 +108,8 @@ def merge_rectangles(input_image, input_json,apth):
         y1 = box[1]
         x2 = box[0]+box[2]
         y2 = box[1]+box[3]
+        if x1<0 or x2<0 or y1<0 or y2<0:
+          continue
         part_image = img[y1:y2, x1:x2, :]
         new = Image.fromarray(np.uint8(part_image))
         new.save(str(count)+ ".png")
