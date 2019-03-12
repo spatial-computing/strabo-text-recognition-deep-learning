@@ -196,14 +196,6 @@ Illegal instruction (core dumped)
 
 Type `export LC_ALL=C` in the command line
 
-3. ValueError: tile cannot extend outside image
-
-If the input image is part of the whole map, and the border cropped out part
-of the text, then it is possible for the program to fail at the recognition phase.
-The reason is that, detection will predict bounding boxes outside the border,
-but the recognition program is not able to crop the image outside the border.
-In this case, the detection phase will still complete successfully and generate
-output image.
 
 ## Acknowledgments
 
