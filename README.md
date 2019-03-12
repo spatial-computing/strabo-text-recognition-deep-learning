@@ -183,12 +183,6 @@ python3 text_recognition.py -i static/results/test2/1920-5.png_69f4e89c-3e7f-11e
 4
 
 ```
-If the input image is part of the whole map, and the border cropped out part
-of the text, then it is possible for the program to fail at the recognition phase.
-The reason is that, detection will predict bounding boxes outside the border,
-but the recognition program is not able to crop the image outside the border.
-In this case, the detection phase will still complete successfully and generate
-output image.
 
 ## III. FAQ
 1. RuntimeError: Failed to init API, possibly an invalid tessdata path: /usr/share/tesseract-ocr/tessdata/
@@ -201,6 +195,15 @@ sudo mv tessdata /usr/share/tesseract-ocr/
 Illegal instruction (core dumped)
 
 Type `export LC_ALL=C` in the command line
+
+3. ValueError: tile cannot extend outside image
+
+If the input image is part of the whole map, and the border cropped out part
+of the text, then it is possible for the program to fail at the recognition phase.
+The reason is that, detection will predict bounding boxes outside the border,
+but the recognition program is not able to crop the image outside the border.
+In this case, the detection phase will still complete successfully and generate
+output image.
 
 ## Acknowledgments
 
