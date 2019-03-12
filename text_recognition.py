@@ -32,6 +32,8 @@ def text_recognition(input_image, input_json):
         y1 = -1*y1[1]
         y2 = min(box, key=lambda x:x[1])
         y2 = -1*y2[1]
+        if x1<0 or x2<0 or y1<0 or y2<0: 
+            continue
         part_image = img[y1:y2, x1:x2, :]
         new = Image.fromarray(numpy.uint8(part_image))
        
