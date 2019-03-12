@@ -4,6 +4,9 @@ The goal of this project is to detect and recognize the text in the maps. Input
 to the system is an image (jpeg or png). The output is a geo json image which
 contains the coordinates of the text in the map along with the recognized text
 in that area.
+
+This document contains the installation and testing guide for Strabo.
+
 ###  Prerequisite
 * Ubuntu OS
 
@@ -11,10 +14,14 @@ in that area.
 
 ## I. Installation
 
-Here is the step to step guide for installing Strabo. The following commands
-have been tested on Linux system with **Ubuntu 16.04.2 LTS distribution**.
+Here is the instruction for installing Strabo. The following commands
+have been tested on Linux system with **Ubuntu 16.04.2 LTS distribution**. 
 
-You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps. There are two ways to install Strabo, you can choose the one you prefer.
+You should first download the `install.sh` and `StraboDependency.zip` from [here](https://drive.google.com/drive/folders/0ANlqqzNiA98_Uk9PVA) (Google Drive).
+
+You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps. 
+
+There are two methods to install Strabo (1.1 and 1.2), you can choose the one you prefer. 1.1 provides a user-friendly version of one-line-installation. 1.2 gives the step-to-step instructions. These two methods are essentially the same, you only need **one** of them (no need for running both).
 
 ### 1.1 Simple Installation
 **We provide a install.sh file for your convinience if you want one-line-installation instead of following the commands below. You can simply type** `sh install.sh` **and it will install Strabo automatically.** (PS: virtual environment installation is not included in the install.sh file). When you use this install.sh file, please make sure it is in the same folder as StraboDependency.zip. Strabo will be installed in the **same** folder that your `install.sh` and `StraboDependency.zip` reside in. 
