@@ -190,6 +190,11 @@ git clone https://github.com/tesseract-ocr/tessdata.git
 sudo mv tessdata /usr/share/tesseract-ocr/
 ```
 
+2. Error Message: !strcmp(locale, "C") || !strcmp(locale, "C.UTF-8"):Error:Assert failed:in file baseapi.cpp, line 211
+Illegal instruction (core dumped)
+
+Type `export LC_ALL=C` in the command line
+
 ## Acknowledgments
 
 * Special thanks to EAST [paper](https://arxiv.org/abs/1704.03155v2) and [code](https://github.com/argman/EAST)
