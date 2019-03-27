@@ -198,6 +198,14 @@ python3 text_recognition.py -i static/results/test2/1920-5.png_69f4e89c-3e7f-11e
 4
 
 ```
+The output is stored instatic/results/test2/. Each input image has an output folder that starts with the image name. Each folder contains the input and output image in detection phase, the output json files and final.txt. A sample pair of input and output images are shown in figure below.
+
+![image_1](Playground/input.png)
+![image_2](Playground/output.png)
+
+You can also visualize the output using *QGIS* tool by loading the json file. The json file contains all the predicted bounding boxes.
+![image_2](Playground/strabo.png)
+
 
 ## III. FAQ
 1. RuntimeError: Failed to init API, possibly an invalid tessdata path: /usr/share/tesseract-ocr/tessdata/
