@@ -7,6 +7,21 @@ in that area.
 
 This document contains the installation and testing guide for Strabo.
 
+### Library Requirement
+The libraries you will need are shown below. They will be installed in the Section 1 `Installation`.
+```
+opencv-python==4.0.0.21
+tensorflow==1.4
+Shapely==1.5.13
+Flask==1.0.2
+matplotlib==3.0.3
+scipy==0.19.0
+plumbum==1.6.2
+numpy==1.14.1
+ipython==6.1.0
+Pillow==4.2.1
+```
+
 ###  Prerequisite
 * Ubuntu OS
 
