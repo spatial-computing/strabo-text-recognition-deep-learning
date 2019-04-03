@@ -1,4 +1,4 @@
-# strabo-text-recognition-deep-learning
+# strabo-text-recognition-deep-learning Version 0.67
 
 The goal of this project is to detect and recognize the text in the maps. Input
 to the system is an image (jpeg or png). The output is a geo json image which
