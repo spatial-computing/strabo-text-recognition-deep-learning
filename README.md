@@ -12,14 +12,18 @@ The libraries you will need are shown below. They will be installed in the Secti
 ```
 opencv-python==4.0.0.21
 tensorflow==1.4
-Shapely==1.5.13
+Shapely==1.5.17
 Flask==1.0.2
 matplotlib==3.0.3
 scipy==0.19.0
 plumbum==1.6.2
-numpy==1.14.1
-ipython==6.1.0
-Pillow==4.2.1
+numpy==1.14.3
+ipython==6.3.0
+Pillow==5.2.0
+
+tesseract-ocr=4.0.* 
+libtesseract-dev=4.0.* 
+libleptonica-dev=1.76.*  
 ```
 
 ###  Prerequisite
@@ -218,6 +222,10 @@ sudo mv tessdata /usr/share/tesseract-ocr/
 Illegal instruction (core dumped)
 
 Type `export LC_ALL=C` in the command line
+
+3.  Error Message: OSError: Could not find or load any library geos_c icts of variants ['libgeos_c.so.1', 'libgeos_c.so']
+
+Install libgeos via  `sudo apt-get install libgeos-dev`
 
 
 ## Acknowledgments
