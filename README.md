@@ -21,9 +21,9 @@ numpy==1.14.3
 ipython==6.3.0
 Pillow==5.2.0
 
-tesseract-ocr=4.0.* 
-libtesseract-dev=4.0.* 
-libleptonica-dev=1.76.*  
+tesseract-ocr==4.0.* 
+libtesseract-dev==4.0.* 
+libleptonica-dev==1.76.*  
 ```
 
 ###  Prerequisite
