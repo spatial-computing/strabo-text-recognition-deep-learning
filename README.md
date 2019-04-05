@@ -16,7 +16,7 @@ Shapely==1.5.17
 Flask==1.0.2
 matplotlib==3.0.3
 scipy==0.19.0
-plumbum==1.6.2
+plumbum==1.6.7
 numpy==1.14.3
 ipython==6.3.0
 Pillow==5.2.0
