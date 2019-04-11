@@ -36,7 +36,7 @@ libleptonica-dev==1.76.*
 Here is the instruction for installing Strabo. The following commands
 have been tested on Linux system with **Ubuntu 16.04.2 LTS distribution**. 
 
-You should first download the `install.sh` and `StraboDependency.zip` from [here](https://drive.google.com/drive/folders/0ANlqqzNiA98_Uk9PVA) (Google Drive).
+You should first download the `install.sh` from [here](https://drive.google.com/open?id=17Tat38W_M_4yaHS_dHTf2TakNaT-jQel)  and `StraboDependency.zip` from [here](https://drive.google.com/open?id=1MjBMO_Ql7kth7VPPX6XkDXW4sr1qtjDV) (Google Drive).
 
 You do **NOT** need to clone this repo mannually to use Strabo. This operation is included in the installation steps. 
 
